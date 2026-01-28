@@ -13,7 +13,7 @@ This is my 2nd beginner C project for GitHub
 ## How to Run
 1. Open the project in Xcode  
 2. Run `main.c`  
-3. Follow the promts 
+3. Follow the prompts 
 
 ## Files
 - `main.c` – main program  
