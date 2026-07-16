@@ -56,6 +56,6 @@ int main(int argc, char* argv[]) {
             printf("Thank ypou for playing!\n");
         }
     }
-    
+
     return 0;
 }
